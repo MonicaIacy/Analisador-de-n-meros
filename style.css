@@ -1,0 +1,33 @@
+body {
+  background: rgb(121, 121, 240);
+  font-family: Comfortaa, sans-serif;
+  font-size: 15px;
+}
+
+header {
+  color: white;
+  text-align: center;
+}
+
+section {
+  background-color: antiquewhite;
+  border-radius: 10px;
+  width: 31.25rem;
+  padding: 15px;
+  margin: auto;
+  box-shadow: 3px 3px 10px rgb(36, 35, 35);
+}
+
+#finalizarBtn {
+  margin-top: 0.5rem;
+}
+
+#res p {
+  margin-top: 1.5rem;
+}
+
+footer {
+  color: white;
+  text-align: center;
+  font-style: italic;
+}
